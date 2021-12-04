@@ -1,0 +1,2 @@
+one ="one"
+print(one)
